@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c65fd53c78d43534e891303d0befbb33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - txtNome: {instanceID: 0}
+  - txtTurma: {instanceID: 0}
+  - txtTitulo: {instanceID: 0}
+  - txtTexto: {instanceID: 0}
+  - imagemFundo: {fileID: 2800000, guid: db2625cc4ec7b254da20f2b66d428fff, type: 3}
+  - carregadorImagem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
