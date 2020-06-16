@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 849bcf73d0fc4344e876ba468acaee7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicaTocando: {fileID: 21300000, guid: b1b6efed1c541344781b9e2b11e87481, type: 3}
+  - musicaMutada: {fileID: 21300000, guid: b1b6efed1c541344781b9e2b11e87481, type: 3}
+  - configuracaoSom: {instanceID: 0}
+  - configSom: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
